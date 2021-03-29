@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "BEST_UNIVERSITY_TEACHER_2020_RU.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "BEST_UNIVERSITY_TEACHER_2020_RU-1.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "BEST_UNIVERSITY_TEACHER_2020_RU-2.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

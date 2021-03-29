@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "stipendialnaya-programma-1200x665-2021_2-1024x569-1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "stipendialnaya-programma-1200x665-2021_2-1024x569-2.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "stipendialnaya-programma-1200x665-2021_2-1024x569-3.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
